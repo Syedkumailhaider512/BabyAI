@@ -10,6 +10,7 @@ BabyAI is a mechanistic, biologically inspired learning system designed to mimic
 The system unifies auditory and visual processing, Hebbian and STDP plasticity, dopamine-like curiosity modulation, and persistent prototype-based memory into a single, online learning framework.
 
 BabyAI learns in real time, forms neural-like representations, consolidates memory through temporal alignment, and performs recognition with calibrated confidence and open-set abstention.
+![Architecture](architecture.png)
 
 This implementation is based on the MSc thesis:  
 **“Biologically Plausible Curiosity-Driven Multisensory Learning in BabyAI.”**
@@ -18,20 +19,17 @@ This implementation is based on the MSc thesis:
 
 ## Visuals
 
-### Biological Inspiration — Human Ear and Cochlea
+### Human Ear Pipeline — Cochlear Spikes and Spectral Features
 ![Ear](ear.png)
 
-### Biology → Code Mapping (System Concept)
-![Mapping](Biological_BabyAI___Final_Thesis.pdf_Page_71_Image_0001.jpg)
+### Voice Gradient — Frequency over time based spikes
+![Gradient](voice_gradient.gif)
 
 ### Vision Pipeline — V1 Energy Maps
-![Vision](Biological_BabyAI___Final_Thesis.pdf_Page_105_Image_0001.jpg)
-
-### Audio Pipeline — Cochlear Spikes and Spectral Features
-![Audio](Biological_BabyAI___Final_Thesis.pdf_Page_86_Image_0001.jpg)
+![Vision](eye.png)
 
 ### Neural Activity — Internal Neuron Firing
-![Firing](Biological_BabyAI___Final_Thesis.pdf_Page_106_Image_0001.jpg)
+![Firing](neural_firing.png)
 
 ---
 
