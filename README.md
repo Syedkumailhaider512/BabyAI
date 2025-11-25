@@ -19,7 +19,7 @@ This implementation is based on the MSc thesis:
 ## Visuals
 
 ### Biological Inspiration — Human Ear and Cochlea
-![Ear](Biological_BabyAI___Final_Thesis.pdf_Page_25_Image_0001.jpg)
+![Ear](ear.png)
 
 ### Biology → Code Mapping (System Concept)
 ![Mapping](Biological_BabyAI___Final_Thesis.pdf_Page_71_Image_0001.jpg)
