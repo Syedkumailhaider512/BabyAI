@@ -1,4 +1,4 @@
-# BabyAI — Biologically Plausible, Curiosity-Driven Multisensory Learning
+# BabyAI — Biologically Plausible, Curiosity-Driven Multisensory AI
 Master’s Final Project Thesis — Staffordshire University  
 Author: Syed Kumail Haider
 
